@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://gustavopendeza.github.io/404-responsive/">
       Demo
     </a>
     <span> | </span>
